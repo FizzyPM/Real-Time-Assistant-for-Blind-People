@@ -1,1 +1,1 @@
-# Real-Time-Assistant-for-Blind-People-
+# Real-Time-Assistant-for-Blind-People
